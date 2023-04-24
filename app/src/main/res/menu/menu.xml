@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/workout"
+        android:icon="@drawable/baseline_home_24"
+        android:title="@string/menu_workout" />
+
+    <item
+        android:id="@+id/stats"
+        android:icon="@drawable/baseline_query_stats_24"
+        android:title="@string/menu_stats" />
+
+    <item
+        android:id="@+id/map"
+        android:icon="@drawable/baseline_map_24"
+        android:title="@string/menu_map" />
+
+    <item
+        android:id="@+id/pictures"
+        android:icon="@drawable/baseline_insert_photo_24"
+        android:title="@string/menu_pictures" />
+</menu>

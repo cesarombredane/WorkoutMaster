@@ -1,0 +1,31 @@
+<resources>
+    <!-- App -->
+    <string name="app_name">WorkoutMaster</string>
+
+
+    <!-- Welcome page -->
+    <string name="logo_description">logo : muscular arm holding a dumbbell</string>
+    <string name="get_started">Get Started</string>\
+
+
+    <!-- Main page -->
+
+    <!-- Menu -->
+    <string name="menu_workout">Workouts</string>
+    <string name="menu_stats">Statistics</string>
+    <string name="menu_map">Gym Map</string>
+    <string name="menu_pictures">Pictures</string>
+
+    <!-- Workouts frag -->
+    <string name="frag_title_workouts">Workouts :</string>
+
+    <!-- Statistics frag -->
+    <string name="frag_title_stats">Statistics :</string>
+
+    <!-- Map frag -->
+    <string name="frag_title_map">Map :</string>
+
+    <!-- Pictures frag -->
+    <string name="frag_title_pictures">Pictures :</string>
+
+</resources>
