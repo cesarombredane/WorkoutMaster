@@ -1,2 +1,2 @@
 # WorkoutMaster
-Projet Android s8 Efrei Paris
+Project Android s8 Efrei Paris
