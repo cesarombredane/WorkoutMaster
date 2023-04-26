@@ -18,6 +18,10 @@
 
     <!-- Workouts frag -->
     <string name="frag_title_workouts">Workouts :</string>
+    <string name="plus">+</string>
+    <string name="right_arrow"><![CDATA[>]]></string>
+    <string name="workout_name_placeholder">Workout name</string>
+    <string name="arrow_description">image : arrow</string>
 
     <!-- Statistics frag -->
     <string name="frag_title_stats">Statistics :</string>
@@ -27,5 +31,4 @@
 
     <!-- Pictures frag -->
     <string name="frag_title_pictures">Pictures :</string>
-
 </resources>

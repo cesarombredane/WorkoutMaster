@@ -5,7 +5,7 @@ import android.os.Bundle
 import com.google.android.material.bottomnavigation.BottomNavigationView
 import com.example.workoutmaster.R
 import androidx.fragment.app.Fragment
-import com.example.workoutmaster.ui.fragment.MapFragment
+import com.example.workoutmaster.ui.fragment.MapsFragment
 import com.example.workoutmaster.ui.fragment.PicturesFragment
 import com.example.workoutmaster.ui.fragment.StatisticsFragment
 import com.example.workoutmaster.ui.fragment.WorkoutsFragment
@@ -31,7 +31,7 @@ class MainActivity : AppCompatActivity() {
                     true
                 }
                 R.id.map -> {
-                    loadFragment(MapFragment())
+                    loadFragment(MapsFragment())
                     true
                 }
                 R.id.pictures -> {

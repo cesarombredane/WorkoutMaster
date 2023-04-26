@@ -2,7 +2,7 @@ package models
 
 class Workouts(var workouts: Array<Workout>) {
     fun addWorkout(workout: Workout) {
-        this.workouts.plus(workout)
+        this.workouts = this.workouts.plus(workout)
     }
 
     fun deleteWorkout(id: Int) {
